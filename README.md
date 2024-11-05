@@ -1,4 +1,4 @@
-# Test Java Neoris
+# Test Java Neo
 
 Aplicación que expone una API RESTful de creación de usuarios.
 
@@ -11,13 +11,13 @@ Aplicación que expone una API RESTful de creación de usuarios.
 Clone the project
 
 ```bash
-  git clone https://github.com/CristobalValenzuela/test-java-neoris.git
+  git clone https://github.com/CristobalValenzuela/test-java-neo.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd test-java-neoris
+  cd test-java-neo
 ```
 
 Build project
@@ -174,7 +174,7 @@ Content-Type: application/json
 
 ## Postman Collection
 
-[Api User.postman_collection.json](https://raw.githubusercontent.com/CristobalValenzuela/test-java-neoris/master/Api%20User.postman_collection.json)
+[Api User.postman_collection.json](https://raw.githubusercontent.com/CristobalValenzuela/test-java-neo/master/Api%20User.postman_collection.json)
 
 ## Running Tests
 
